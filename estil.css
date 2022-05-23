@@ -30,6 +30,7 @@ body {
 	flex-direction: row;
 	justify-content: space-between;
 	align-items: left;
+	font-weight: bold;
 }
 .contenedor {
 	width:100%;
